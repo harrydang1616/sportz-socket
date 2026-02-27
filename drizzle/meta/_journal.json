@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772180059954,
+      "tag": "0000_perfect_tiger_shark",
+      "breakpoints": true
+    }
+  ]
+}
